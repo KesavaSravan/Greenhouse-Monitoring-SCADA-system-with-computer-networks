@@ -1,0 +1,3 @@
+Client 1 (Raspberry Pi with temperature(DHT 11) and Light intensity sensor(LDR) sense the and send to server
+Client 2 (Raspberry Pi with air quality sensor(CO2 sensor))
+server to create a log data of values recived from clients and two actuators one led light it will blink if c02 level is NO and another actuator will swich on dc motor if temapature is more than 25.

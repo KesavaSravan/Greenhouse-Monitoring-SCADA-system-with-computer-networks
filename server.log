@@ -1,0 +1,22 @@
+2023-06-12 16:41:11,618 - Received data from 192.168.41.240: {'intensity': 0}
+2023-06-12 16:41:11,633 - Sent action to 192.168.41.240: led_on
+2023-06-12 16:41:13,443 - Received data from 192.168.41.111: 27.0
+2023-06-12 16:41:13,443 - Sent action to 192.168.41.111: Buzzer On
+2023-06-12 16:41:36,788 - Received data from 192.168.41.240: {'intensity': 0}
+2023-06-12 16:41:36,846 - Sent action to 192.168.41.240: led_on
+2023-06-12 16:41:54,024 - Received data from 192.168.41.111: 27.0
+2023-06-12 16:41:54,032 - Sent action to 192.168.41.111: Buzzer On
+2023-06-12 16:42:01,893 - Received data from 192.168.41.240: {'intensity': 0}
+2023-06-12 16:42:01,934 - Sent action to 192.168.41.240: led_on
+2023-06-12 16:42:27,124 - Received data from 192.168.41.240: {'intensity': 0}
+2023-06-12 16:42:27,140 - Sent action to 192.168.41.240: led_on
+2023-06-12 16:42:37,202 - Received data from 192.168.41.111: 27.0
+2023-06-12 16:42:37,202 - Sent action to 192.168.41.111: Buzzer On
+2023-06-12 16:42:52,169 - Received data from 192.168.41.240: {'intensity': 0}
+2023-06-12 16:42:52,185 - Sent action to 192.168.41.240: led_on
+2023-06-12 16:43:17,244 - Received data from 192.168.41.240: {'intensity': 1}
+2023-06-12 16:43:17,254 - Sent action to 192.168.41.240: led_on
+2023-06-12 16:43:17,855 - Received data from 192.168.41.111: 27.0
+2023-06-12 16:43:17,855 - Sent action to 192.168.41.111: Buzzer On
+2023-06-12 16:44:00,966 - Received data from 192.168.41.111: 27.0
+2023-06-12 16:44:00,966 - Sent action to 192.168.41.111: Buzzer On
